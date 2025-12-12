@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "quiz",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-12T13:09:55.727451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pop Quiz",
+      "artist": "Pretty Lights",
+      "has_synced": false,
+      "path": "select/01_Pop_Quiz_Pretty_Lights.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pop Quiz",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/02_Pop_Quiz_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Quiz",
+      "artist": "cupcakKe",
+      "has_synced": true,
+      "path": "select/03_Quiz_cupcakKe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Property Quiz",
+      "artist": "The Beautiful South",
+      "has_synced": true,
+      "path": "select/04_Property_Quiz_The_Beautiful_South.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Quiz",
+      "artist": "Hello Saferide",
+      "has_synced": true,
+      "path": "select/05_The_Quiz_Hello_Saferide.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Quiz",
+      "artist": "Hello Saferide",
+      "has_synced": false,
+      "path": "select/06_The_Quiz_Hello_Saferide.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Quiz Night at Looky Lou's",
+      "artist": "John K. Samson",
+      "has_synced": true,
+      "path": "select/07_Quiz_Night_at_Looky_Lou's_John_K._Samson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Quiz",
+      "artist": "JEONG SEWOON",
+      "has_synced": true,
+      "path": "select/08_Quiz_JEONG_SEWOON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pop Quiz",
+      "artist": "The Cool Kids feat. Guapdad 4000",
+      "has_synced": true,
+      "path": "select/09_Pop_Quiz_The_Cool_Kids_feat._Guapdad_4000.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pop Quiz",
+      "artist": "Guapdad 4000 & The Cool Kids",
+      "has_synced": true,
+      "path": "select/10_Pop_Quiz_Guapdad_4000_&_The_Cool_Kids.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Quiz",
+      "artist": "Jeong Sewoon (정세운)",
+      "has_synced": true,
+      "path": "select/11_Quiz_Jeong_Sewoon_(정세운).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Prom Quiz",
+      "artist": "Grayskul",
+      "has_synced": true,
+      "path": "select/12_Prom_Quiz_Grayskul.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Prom Quiz",
+      "artist": "Grayskull",
+      "has_synced": true,
+      "path": "select/13_Prom_Quiz_Grayskull.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Vocab Quiz",
+      "artist": "tv room",
+      "has_synced": true,
+      "path": "select/14_The_Vocab_Quiz_tv_room.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "quiz",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_quiz_花譜.txt"
+    }
+  ]
+}
